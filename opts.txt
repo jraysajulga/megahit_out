@@ -1,0 +1,3 @@
+--12
+readsInterleaved3.fa
+MEGAHIT_TEMP_DIR: ./megahit_out/tmp/
